@@ -26,18 +26,15 @@ On her right side, her cutie mark has the 'jagged part' moving toward the left i
 
 This is something that's easy to overlook about the ponies, and many people will make fan art or drawings of the ponies without really noticing which version of the cutie mark should be used on which side.
 
-If using the MLP wikia of a character as a reference, the image they show for a character's cutie mark is the one from the left side of the character.
-
-http://mlp.wikia.com/wiki/Rainbow_Dash
-http://mlp.wikia.com/wiki/Rainbow_Dash?file=AiP_CM_Rainbow_Dash.svg
+If using the MLP wikia of a character as a reference, [the image they show for a character's cutie mark](http://mlp.wikia.com/wiki/Cutie_marks/Gallery) is the one from the left side of the character.
 
 Just knowing that the cutie mark is flipped from one side to the other is the key point.  While the show itself sometimes gets them wrong, you can generally refer to the show to see which version is on which side.  Here are the cutie marks of some of the main characters to help
 
 |Character         |Left-side cutie mark|
 |------------------|:------------------:|
-| Rainbow Dash     |  ![Rainbow Dash](http://vignette1.wikia.nocookie.net/mlp/images/a/a9/AiP_CM_Rainbow_Dash.svg/revision/latest/scale-to-width-down/246?cb=20160715140422) |
-| Twilight Sparkle |    ![Twilight Sparkle](http://vignette2.wikia.nocookie.net/mlp/images/1/1f/AiP_CM_Twilight_Sparkle.svg/revision/latest/scale-to-width-down/372?cb=20110805232146)   |
-| Applejack | ![Applejack](http://vignette4.wikia.nocookie.net/mlp/images/e/ee/AiP_CM_Applejack.svg/revision/latest?cb=20110805224608) |
-| Fluttershy | ![](http://vignette1.wikia.nocookie.net/mlp/images/5/5a/AiP_CM_Fluttershy.svg/revision/latest/scale-to-width-down/470?cb=20110805224715) |
-| Rarity | ![](http://vignette1.wikia.nocookie.net/mlp/images/2/29/AiP_CM_Rarity.svg/revision/latest/scale-to-width-down/247?cb=20110805225051) |
-| Pinkie Pie | ![](http://vignette3.wikia.nocookie.net/mlp/images/3/34/AiP_CM_Pinkie_Pie.svg/revision/latest/scale-to-width-down/285?cb=20110805224817) |
+| Rainbow Dash     |  ![Rainbow Dash](http://vignette1.wikia.nocookie.net/mlp/images/a/a9/AiP_CM_Rainbow_Dash.svg/revision/latest/scale-to-width-down/200?cb=20160715140422) |
+| Twilight Sparkle |    ![Twilight Sparkle](http://vignette2.wikia.nocookie.net/mlp/images/1/1f/AiP_CM_Twilight_Sparkle.svg/revision/latest/scale-to-width-down/200?cb=20110805232146)   |
+| Applejack | ![Applejack](http://vignette4.wikia.nocookie.net/mlp/images/e/ee/AiP_CM_Applejack.svg/revision/latest/scale-to-width-down/200?cb=20110805224608) |
+| Fluttershy | ![](http://vignette1.wikia.nocookie.net/mlp/images/5/5a/AiP_CM_Fluttershy.svg/revision/latest/scale-to-width-down/200?cb=20110805224715) |
+| Rarity | ![](http://vignette1.wikia.nocookie.net/mlp/images/2/29/AiP_CM_Rarity.svg/revision/latest/scale-to-width-down/200?cb=20110805225051) |
+| Pinkie Pie | ![](http://vignette3.wikia.nocookie.net/mlp/images/3/34/AiP_CM_Pinkie_Pie.svg/revision/latest/scale-to-width-down/200?cb=20110805224817) |
