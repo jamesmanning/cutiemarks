@@ -33,7 +33,7 @@ Just knowing that the cutie mark is flipped from one side to the other is the ke
 |Character         |Left-side cutie mark|
 |------------------|:------------------:|
 | Rainbow Dash     |  ![Rainbow Dash](http://vignette1.wikia.nocookie.net/mlp/images/a/a9/AiP_CM_Rainbow_Dash.svg/revision/latest/scale-to-width-down/200?cb=20160715140422) |
-| Twilight Sparkle |    ![Twilight Sparkle](http://vignette2.wikia.nocookie.net/mlp/images/1/1f/AiP_CM_Twilight_Sparkle.svg/revision/latest/scale-to-width-down/200?cb=20110805232146)   |
+| Twilight Sparkle |    ![Twilight Sparkle](http://i.imgur.com/WMAS8BS.png)   |
 | Applejack | ![Applejack](http://vignette4.wikia.nocookie.net/mlp/images/e/ee/AiP_CM_Applejack.svg/revision/latest/scale-to-width-down/200?cb=20110805224608) |
 | Fluttershy | ![](http://vignette1.wikia.nocookie.net/mlp/images/5/5a/AiP_CM_Fluttershy.svg/revision/latest/scale-to-width-down/200?cb=20110805224715) |
 | Rarity | ![](http://vignette1.wikia.nocookie.net/mlp/images/2/29/AiP_CM_Rarity.svg/revision/latest/scale-to-width-down/200?cb=20110805225051) |
