@@ -1,8 +1,8 @@
-##What are cutie marks?
+## What are cutie marks?
 
 Read http://mlp.wikia.com/wiki/Cutie_marks
 
-##What is this about?
+## What is this about?
 
 While the toys and plushes are somewhat infamous in often only including cutie marks on one side of the pony, the cutie marks in the show appear on both sides of the pony that has them.  Like real ponies, though, the ponies in the show maintain [bilateral symmetry](https://en.wikipedia.org/wiki/Symmetry_in_biology#Bilateral_symmetry), so the cutie mark viewed from one side of the pony will be the same as the one on the other side **except** that it will be _flipped horizontally_.
 
